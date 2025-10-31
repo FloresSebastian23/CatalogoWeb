@@ -1,0 +1,39 @@
+# Archivos temporales y de compilación
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Paquetes NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos de configuración locales
+*.dbmdl
+*.jfm
+*.bak
+*.tmp
+
+# Archivos de publicación
+.publishsettings
+*.pubxml
+*.pubxml.user
+
+# Configuración de IDE
+*.vspscc
+*.vssscc
+
+# Archivos de backup
+*_i.c
+*_p.c
+*_h.h
+*.bak
+*.orig
+
+# Otros archivos innecesarios
+TestResults/
+[Bb]uild[Ll]og.*
